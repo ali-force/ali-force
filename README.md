@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science student · Builder · Problem solver</h3>
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME"><img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views" alt="views"/></a>
+  <a href="https://github.com/ali-force"><img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views" alt="views"/></a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Working_on_projects-9cf" alt="status"/>
 </p>
